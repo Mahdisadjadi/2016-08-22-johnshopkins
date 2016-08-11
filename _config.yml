@@ -1,8 +1,8 @@
 #--------------------------------------------------------------------------------
 # Values for this workshop - EDIT THIS SECTION.
 #--------------------------------------------------------------------------------
-workshop_repo   : "http://github.com/dotsdl/2016-08-29-northeastern"
-workshop_site   : "http://dotsdl.github.io/2016-08-29-northeastern"
+workshop_repo   : "https://github.com/Mahdisadjadi/2016-08-22-johnshopkins"
+workshop_site   : "http://mahdisadjadi.github.io/2016-08-22-johnshopkins"
 #--------------------------------------------------------------------------------
 # Standard Software Carpentry settings - should not need to be modified.
 #--------------------------------------------------------------------------------
